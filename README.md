@@ -1,3 +1,5 @@
+# THIS PROJECT HAS MOVED -> https://github.com/n4n0GH/hello
+
 # KDE-Rounded-Corners
 
 This is a fork of https://sourceforge.net/projects/shapecorners/
